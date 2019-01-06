@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("TAG","commit mdry");
         Log.i("TAG","commit mdry");
+        Log.i("TAG","msgy");
 
     }
 }
